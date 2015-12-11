@@ -1,0 +1,13 @@
+/app/src/test
+/app/src/androidTest
+/.gradle
+/.idea
+/app/src/androidTest/java/com/xyc/tablayoutviewpager
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
