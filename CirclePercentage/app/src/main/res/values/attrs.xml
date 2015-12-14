@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="outerCircleColor" format="color" />
+    <attr name="innerCircleColor" format="color" />
+    <attr name="outerCircleBarWidth" format="dimension" />
+    <attr name="innerCircleBarWidth" format="dimension" />
+    <attr name="innerCircleRadius" format="dimension" />
+    <attr name="outerCircleRadius" format="dimension" />
+
+
+    <declare-styleable name="CirclePercentageView">
+        <attr name="outerCircleColor" />
+        <attr name="innerCircleColor" />
+        <attr name="outerCircleBarWidth" />
+        <attr name="innerCircleBarWidth" />
+        <attr name="innerCircleRadius" />
+        <attr name="outerCircleRadius" />
+    </declare-styleable>
+
+</resources>
